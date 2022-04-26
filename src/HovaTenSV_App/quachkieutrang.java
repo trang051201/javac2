@@ -1,6 +1,6 @@
 package HovaTenSV_App;
 
-public class Lehuuvan {
+public class quachkieutrang {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
